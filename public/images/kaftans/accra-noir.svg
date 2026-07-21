@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15151A"/><stop offset="1" stop-color="#0B0B0E"/>
+    </linearGradient>
+    <linearGradient id="robe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1C1C22"/><stop offset="1" stop-color="#111116"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect x="14" y="14" width="572" height="772" fill="none" stroke="#CFCFCF" stroke-opacity="0.25" stroke-width="1.5"/>
+  <path d="M300 118 L362 150 L470 176 L576 322 L534 382 L470 350 L470 702 Q300 744 130 702 L130 350 L66 382 L24 322 L130 176 L238 150 Z" fill="url(#robe)" stroke="#CFCFCF" stroke-width="2.5" stroke-opacity="0.9"/>
+  <path d="M238 150 L300 216 L362 150" fill="none" stroke="#CFCFCF" stroke-width="3"/>
+  <path d="M300 216 L300 700" fill="none" stroke="#CFCFCF" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="2 6"/>
+  <path d="M120 660 H480" stroke="#CFCFCF" stroke-width="4" stroke-opacity="0.85"/>
+  
+  <text x="300" y="742" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#CFCFCF" opacity="0.85">Accra Noir</text>
+</svg>
