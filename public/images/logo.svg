@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" width="200" height="44">
+  <g>
+    <path d="M16 4 L26 9 V21 L16 26 L6 21 V9 Z" fill="none" stroke="#C5A46E" stroke-width="1.4"/>
+    <path d="M16 9 L21 11.5 V16.5 L16 19 L11 16.5 V11.5 Z" fill="#C5A46E"/>
+  </g>
+  <text x="34" y="29" font-family="Georgia, serif" font-size="20" font-weight="700" letter-spacing="1" fill="#C5A46E">OMAR FASHION</text>
+</svg>
